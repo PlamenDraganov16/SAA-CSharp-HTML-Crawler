@@ -1,0 +1,14 @@
+D:\pr\SaaFinal1\obj\Debug\net8.0\SaaFinal1.GeneratedMSBuildEditorConfig.editorconfig
+D:\pr\SaaFinal1\obj\Debug\net8.0\SaaFinal1.AssemblyInfoInputs.cache
+D:\pr\SaaFinal1\obj\Debug\net8.0\SaaFinal1.AssemblyInfo.cs
+D:\pr\SaaFinal1\obj\Debug\net8.0\SaaFinal1.csproj.CoreCompileInputs.cache
+D:\pr\SaaFinal1\bin\Debug\net8.0\SaaFinal1.exe
+D:\pr\SaaFinal1\bin\Debug\net8.0\SaaFinal1.deps.json
+D:\pr\SaaFinal1\bin\Debug\net8.0\SaaFinal1.runtimeconfig.json
+D:\pr\SaaFinal1\bin\Debug\net8.0\SaaFinal1.dll
+D:\pr\SaaFinal1\bin\Debug\net8.0\SaaFinal1.pdb
+D:\pr\SaaFinal1\obj\Debug\net8.0\SaaFinal1.dll
+D:\pr\SaaFinal1\obj\Debug\net8.0\refint\SaaFinal1.dll
+D:\pr\SaaFinal1\obj\Debug\net8.0\SaaFinal1.pdb
+D:\pr\SaaFinal1\obj\Debug\net8.0\SaaFinal1.genruntimeconfig.cache
+D:\pr\SaaFinal1\obj\Debug\net8.0\ref\SaaFinal1.dll
