@@ -18,13 +18,6 @@ The `HTML-Crawler` is a C# application designed to efficiently crawl and extract
 - **Asynchronous Processing**: Employs asynchronous programming to handle multiple web requests concurrently, improving performance.
 - **Error Handling**: Includes comprehensive error handling to manage issues like network failures or invalid HTML.
 
-## Requirements
-
-- **.NET Framework**: Ensure that the .NET Framework version [specify version] is installed on your system.
-- **NuGet Packages**: The project relies on the following NuGet packages:
-  - `HtmlAgilityPack`
-  - `Newtonsoft.Json`
-
 ## Installation
 
 1. **Clone the Repository**:
